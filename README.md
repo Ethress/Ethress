@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/Ethress/Ethress/blob/main/images/cyber_city.jpg"/>
+<img src="https://github.com/Ethress/Ethress/blob/main/images/cyber_city(2).jpg"/>
 
 <h2 align="center">
   Github Stats
