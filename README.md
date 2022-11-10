@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github.com/Ethress/Ethress/blob/main/images/cyber_city.jpg"/>
+
+<h2 align="center">
+  Github Stats
+</h2>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Ethress&show_icons=true&theme=radical&line_height=27">
+</p>
